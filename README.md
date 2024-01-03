@@ -27,12 +27,14 @@ def swap(a,b):
     a=b
     b=c
     print("Swapped values are: {} {}".format(a,b))
-a=float(input())
-b=float(input())
+a=(input())
+b=(input())
 swap(a,b)
 ```
 ## OUTPUT:
-![image](https://github.com/vigneshvickyu/Swapping-two-values/assets/151948835/e60f3b06-2415-4d35-b0f7-5a7012c5b3f9)
+![image](https://github.com/vigneshvickyu/Swapping-two-values/assets/151948835/797958df-41c2-45a8-8f25-cccab651627f)
+
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
